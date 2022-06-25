@@ -1,2 +1,2 @@
 # hello-world
-hello word coding 
+my first repository 
